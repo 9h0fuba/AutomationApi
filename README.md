@@ -1,6 +1,6 @@
-# 🧪 REST API Automation Testing with RestAssured, TestNG, Allure & Video Recording 🎥
+# 🧪 REST API Automation Testing with RestAssured, TestNG, Allure Report 📊
 
-Welcome to the API Test Automation Project! This repository showcases how to perform robust API testing using **Java**, **RestAssured**, **TestNG**, and **Allure Report**, enhanced with **video recording** for each test execution.
+Welcome to the API Test Automation Project! This repository showcases how to perform robust API testing using **Java**, **RestAssured**, **TestNG**, and **Allure Report**.
 
 ---
 
